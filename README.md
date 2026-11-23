@@ -26,5 +26,5 @@ I'm interested in **reliable machine learning for time-series data**, especially
 
 I'm interested in **research collaborations and international AI research internships**.
 
-- **Email:** [fateme.roshani@ut.ac.ir](mailto:fateme.roshani@ut.ac.ir)
+- **Email:** [aaida@roshani@gmail.com](mailto:aaida@roshani@gmail.com)
 - **LinkedIn:** [aida-roshani](https://www.linkedin.com/in/aida-roshani/)
